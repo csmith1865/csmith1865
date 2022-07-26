@@ -42,6 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oddly Satisfying Minecraft Flying](https://www.youtube.com/watch?v=PCCzXYuB04E)
+- [What Happens When You Build A Wither Underwater???](https://www.youtube.com/watch?v=jhHHN-hY57M)
+- [What Happens If You Summon A Wither Underwater???](https://www.youtube.com/watch?v=vFRy474UInY)
+- [Minecraft Mods: Immersive Portals &lpar;Minecraft Java Edition&rpar;](https://www.youtube.com/watch?v=uQ_CrrgLbF0)
+- [The Most BROKEN Minecraft Java Edition Seeds &lpar;1.16+, 1.17+&rpar;](https://www.youtube.com/watch?v=JxzcmhQqsPI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCZ_lWTHNwPIAecB8nHLje9w)
