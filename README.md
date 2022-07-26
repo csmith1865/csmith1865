@@ -1,8 +1,8 @@
 # Hi there, I'm Dakota - aka [SumisuMC][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ_lWTHNwPIAecB8nHLje9w?logo=youtube&logoColor=lime&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=store.sumisu.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SumisuMC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ_lWTHNwPIAecB8nHLje9w?color=ff0000&logo=youtube&logoColor=ff0000&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=www.sumisu.xyz&style=for-the-badge&url=https://www.sumisu.xyz)](https://www.sumisu.xyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SumisuMC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSumisuMC&screen_name=SumisuMC)
 
 <!--
 ## I'm a Husband, Father, Developer, and Teacher!!
