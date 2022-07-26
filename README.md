@@ -2,7 +2,6 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ_lWTHNwPIAecB8nHLje9w?color=ff0000&logo=youtube&logoColor=ff0000&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=www.sumisu.xyz&style=for-the-badge&url=https://www.sumisu.xyz)](https://www.sumisu.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SumisuMC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSumisuMC&screen_name=SumisuMC)
 
 <!--
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -52,13 +51,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCZ_lWTHNwPIAecB8nHLje9w)
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Csmith1865's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csmith1865&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&border_color=00ff00&count_private=true" />
@@ -66,6 +58,4 @@
 </details>
 
 [website]: https://store.sumisu.xyz
-[twitter]: https://twitter.com/SumisuMC
 [youtube]: https://www.youtube.com/channel/UCZ_lWTHNwPIAecB8nHLje9w
-[instagram]: https://instagram.com/SumisuMC
