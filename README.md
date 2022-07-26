@@ -77,11 +77,6 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Oddly Satisfying Minecraft Flying](https://www.youtube.com/watch?v=PCCzXYuB04E)
-- [What Happens When You Build A Wither Underwater???](https://www.youtube.com/watch?v=jhHHN-hY57M)
-- [What Happens If You Summon A Wither Underwater???](https://www.youtube.com/watch?v=vFRy474UInY)
-- [Minecraft Mods: Immersive Portals &lpar;Minecraft Java Edition&rpar;](https://www.youtube.com/watch?v=uQ_CrrgLbF0)
-- [The Most BROKEN Minecraft Java Edition Seeds &lpar;1.16+, 1.17+&rpar;](https://www.youtube.com/watch?v=JxzcmhQqsPI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -102,7 +97,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csmith1865&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00" />
 
 </details>
 
