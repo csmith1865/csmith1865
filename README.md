@@ -52,8 +52,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Csmith1865's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csmith1865&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&border_color=00ff00&count_private=true" />
+    <a href="https://mhm.wtf/Csmith1865Github">
+        <img align="left" alt="Csmith1865's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csmith1865&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&border_color=00ff00&count_private=true" />
+    </a>
 
 </details>
 
