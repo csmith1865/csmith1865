@@ -41,9 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [THIS MONTAGE IS CRAZY! - &quot;SumisuOW&quot;](https://www.youtube.com/watch?v=HeVO3O5jQbU)
-- [BEST WIDOWMAKER MONTAGE - &quot;SumisuOW&quot;](https://www.youtube.com/watch?v=l3HYT-FZGmA)
-- [SumisuOW Widowmaker Montage](https://www.youtube.com/watch?v=uXNCQarY49g)
+- [What Happens If You Summon A Wither Underwater???](https://www.youtube.com/watch?v=vFRy474UInY)
+- [Cobblestone Generator in UNDER 1 Minute!](https://www.youtube.com/watch?v=hhon8xm1EAo)
+- [Minecraft TNT Duplication Glitch 1.16+ UNLIMITED TNT](https://www.youtube.com/watch?v=cAcy2KH1vZQ)
+- [Minecraft Rail Duplication Glitch 1.21+ INFINITE RAILS](https://www.youtube.com/watch?v=mK76SCoB0D8)
+- [Minecraft 1.21+ Tripwire Hook Dupe Glitch](https://www.youtube.com/watch?v=0cQr5f5vGwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCZ_lWTHNwPIAecB8nHLje9w)
