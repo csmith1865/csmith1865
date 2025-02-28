@@ -1,7 +1,7 @@
 # Hi there, I'm Dakota - aka [SumisuMC][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ_lWTHNwPIAecB8nHLje9w?color=ff0000&logo=youtube&logoColor=ff0000&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=www.sumisu.xyz&style=for-the-badge&url=https://www.sumisu.xyz)](https://www.sumisu.xyz)
+[![Website](https://img.shields.io/website?label=forum.sumisu.xyz&style=for-the-badge&url=https://forum.sumisu.xyz)](https://forum.sumisu.xyz)
 
 <!--
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -53,7 +53,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <a href="https://mhm.wtf/Csmith1865Github">
+    <a href="https://mhm.wtf/forum">
         <img align="left" alt="Csmith1865's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=csmith1865&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&border_color=00ff00&count_private=true" />
     </a>
 </details>
